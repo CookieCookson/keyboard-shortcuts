@@ -1,0 +1,23 @@
+:host {
+    display: block;
+    padding: 10px;
+    box-sizing: border-box;
+    border-top: 1px solid #DDD;
+}
+
+label {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+kbd {
+    font-family: monospace;
+    float: right;
+    display: block;
+    background: rgb(247, 247, 247);
+    border: 1px solid #666666;
+    border-bottom-color: #333333;
+    border-radius: 3px;
+    font-size: 11px;
+    padding: 2px 3px;
+    box-shadow: inset 0 -1px 0 #666666;
+}
